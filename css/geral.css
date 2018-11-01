@@ -1,0 +1,17 @@
+.margem-texto-menu{
+    
+    margin-left: 2em;
+    
+}
+
+.scroller {
+    background-color: transparent;
+    width: 100%;
+    height: 300px;
+    overflow: scroll;
+}
+
+.lista-link{
+    text-decoration: none;
+    color: black;
+}
